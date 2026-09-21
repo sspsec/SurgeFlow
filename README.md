@@ -44,6 +44,9 @@ SurgeFlow 是一套面向 macOS Surge 5 的分流配置。它不把国内流量�
 
 各类应用默认出口不同，可在面板中随时切换。
 
+<img width="1182" height="862" alt="image" src="https://github.com/user-attachments/assets/44629c69-b56f-4504-8abb-83d8b59a8cdd" />
+
+
 ## 三、主要功能说明
 
 ### 3.1 钓鱼域名拦截
